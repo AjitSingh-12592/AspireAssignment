@@ -1,6 +1,6 @@
 # AspireAssignment
 
-# The project is wel tested using Intelliji IDE in Chrome brower in Windows OS.
+# The project is well tested using Intelliji IDE in Chrome brower in Windows OS.
 
 # Pre-requisite:
 1. Java Installed (I used Amazon Corretto jdk11.0.13_8)
