@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!--<suite name="All Test Suite">-->
+<!--    <test verbose="2" preserve-order="true" name="C:/Users/Ajit Singh/IdeaProjects/AspireChallenge">-->
+<!--        <classes/>-->
+<!--    </test>-->
+<!--</suite>-->
+
+<suite name="Aspire Automation Challenge">
+    <test name="Regression">
+        <packages>
+            <package name="com.aspireapp.www.TestCases"></package>
+<!--        <package name="PageObject"/>-->
+        </packages>
+        <classes>
+            <class name="com.aspireapp.www.TestCases.Assignment"/>
+<!--            <class name="test.day2"/>-->
+<!--            <class name="test.day4"/>-->
+<!--            <class name="test.day3"/>-->
+        </classes>
+
+    </test>
+</suite>
